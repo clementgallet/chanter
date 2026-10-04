@@ -1,0 +1,138 @@
+% Original demo tunes shipped with chanter so the app is usable on first run.
+% Import your own scores from the Import tab; these can be deleted at any time.
+
+X:1
+T:Demo March - Braes of Glenaire
+C:chanter demo
+R:March
+M:2/4
+L:1/8
+Q:1/4=76
+K:HP
+A | {g}a>f {gef}e>d | {g}B>d {gcd}c>e | {g}d>c {GdG}B>A | {G}B2 {GdG}e2 |
+{g}a>f {gef}e>d | {g}B>d {gcd}c>e | {g}d>B {GdG}e>c | {G}A2 A2 :|
+|: {g}e>f {gef}g>a | {g}f>e {gef}d>B | {g}e>f {gef}g>a | {g}f>e {gef}e2 |
+{g}a>g {gef}f>e | {g}d>B {gcd}c>e | {g}d>B {GdG}e>c | {G}A2 A2 :|
+
+X:2
+T:Demo March - The Piper's Welcome
+C:chanter demo
+R:March
+M:4/4
+L:1/8
+Q:1/4=76
+K:HP
+A | {g}a2 {GdG}e>f {g}e>d {G}B>A | {g}B>c {GdG}d2 {g}d>c {G}B>A | {g}a2 {GdG}e>f {g}e>d {G}B>d | {g}c>e {GdG}d>B {G}A3 :|
+|: A | {g}e2 {gef}e>f {g}g2 {GdG}g>a | {g}f>e {gef}f>g {g}a2 {GdG}e>f | {g}e>d {G}B>d {g}c>e {GdG}d>B | {g}A>B {G}c>B {G}A3 :|
+
+X:3
+T:Demo March - Loch of the Hills
+C:chanter demo
+R:6/8 March
+M:6/8
+L:1/8
+Q:3/8=76
+K:HP
+d | {g}f>ef {gef}e2 d | {g}B>dB {G}A2 B | {g}c>dc {gdc}d2 e | {g}f3 {GdG}f2 d |
+{g}f>ef {gef}e2 d | {g}B>dB {G}A2 B | {g}c>dc {gdc}d>ef | {g}e3 {GdG}d2 :|
+|: g | {g}a>ga {gef}f2 a | {g}g>fg {gef}e2 g | {g}f>ef {gef}d2 B | {g}A3 {GdG}A2 d |
+{g}a>ga {gef}f2 a | {g}g>fg {gef}e2 g | {g}f>ef {gef}d2 B | {g}A3 {GdG}A2 :|
+
+X:4
+T:Demo March - Fair Isle Farewell
+C:chanter demo
+R:March
+M:4/4
+L:1/8
+Q:1/4=80
+K:HP
+B | {g}d>e {g}f>e {g}d>B {G}B>d | {g}e>f {g}g>a {gef}e2 {GdG}d2 | {g}d>e {g}f>e {g}d>B {G}B>c | {g}d>B {G}A>B {G}A3 :|
+|: B | {g}a>g {gef}f>e {g}f>g {g}a>f | {g}e>f {g}g>a {g}f>e {gef}d2 | {g}a>g {gef}f>e {g}f>g {g}a>f | {g}e>d {G}B>d {G}B3 :|
+
+X:5
+T:Demo Strathspey - The Auld Mill Road
+C:chanter demo
+R:Strathspey
+M:4/4
+L:1/16
+Q:1/4=126
+K:HP
+|: {g}A2 | {g}e3f {gef}e2 {g}d2 {g}B3c {G}d2 {g}B2 | {g}A3B {GdG}c2 {g}e2 {g}d3c {G}B2 {g}A2 | {g}e3f {gef}e2 {g}d2 {g}B3c {G}d2 {g}e2 | {g}f3e {gef}d2 {g}B2 {G}A4 {G}A2 :|
+|: {g}a2 | {g}a3g {gef}f2 {g}e2 {g}f3e {gef}e2 {g}d2 | {g}B3c {G}d2 {g}e2 {g}f3e {gef}d2 {g}B2 | {g}a3g {gef}f2 {g}e2 {g}f3g {g}a2 {GdG}e2 | {g}d3B {G}c2 {g}e2 {G}A4 {G}A2 :|
+
+X:6
+T:Demo Strathspey - Dunnottar Shore
+C:chanter demo
+R:Strathspey
+M:4/4
+L:1/16
+Q:1/4=126
+K:HP
+|: {g}e2 | {g}a3e {g}f3e {gef}e2 {g}d2 {g}c2 {g}B2 | {g}B3c {G}d3B {G}A2 {g}B2 {g}c2 {g}d2 | {g}c3d {gef}e3d {g}c2 {g}B2 {G}A2 {g}B2 | {g}A3B {G}c2 {g}e2 {G}A4 {G}A2 :|
+|: {g}A2 | {g}g3f {gef}e3d {g}e2 {g}f2 {g}g2 {g}a2 | {g}a3g {gef}f3e {g}d2 {g}B2 {G}d2 {g}e2 | {g}f3g {g}a3f {gef}e3d {g}c2 {g}B2 | {g}A3B {G}c2 {g}e2 {G}A4 {G}A2 :|
+
+X:7
+T:Demo Reel - Hills of Morven
+C:chanter demo
+R:Reel
+M:2/2
+L:1/8
+Q:1/2=72
+K:HP
+|: {GdG}A2 {g}eA {g}eA {g}eA | {g}dc {g}de {g}fe {gef}ed | {G}B2 {g}dB {g}dB {g}dB | {g}cB {G}cd {g}ec {G}Ac :|
+|: {g}a2 {gef}ef {g}ga {gef}ef | {g}ag {gef}fe {g}dB {G}Bc | {g}a2 {gef}ef {g}ga {gef}fe | {g}dB {G}cd {g}e2 {GdG}A2 :|
+
+X:8
+T:Demo Reel - Bonnie Dunbar Lass
+C:chanter demo
+R:Reel
+M:2/2
+L:1/8
+Q:1/2=72
+K:HP
+|: {g}e2 {gef}ef {g}ef {g}ga | {g}fe {gef}fg {g}a2 {gef}fe | {g}d2 {gcd}dB {g}dB {G}cB | {g}AB {G}cd {g}e2 {GdG}A2 :|
+|: {g}a2 {g}ag {g}fe {gef}fg | {g}a2 {g}ag {g}f2 {gef}e2 | {g}d2 {gcd}dc {g}dB {G}cB | {g}AB {G}cd {g}e2 {GdG}A2 :|
+
+X:9
+T:Demo Jig - The Glen Road
+C:chanter demo
+R:Jig
+M:6/8
+L:1/8
+Q:3/8=100
+K:HP
+|: {G}AeA {G}BdB | {g}c>de {gef}f2 e | {g}d>cB {G}A>Bc | {g}d>BG {G}B2 d :|
+|: {g}a>ga {gef}f>ef | {g}g>fg {gef}e>dc | {g}d>ef {g}g>fe | {g}d>cB {G}A3 :|
+
+X:10
+T:Demo Jig - Tarbert Quay
+C:chanter demo
+R:Jig
+M:6/8
+L:1/8
+Q:3/8=100
+K:HP
+|: {g}e>fg {g}a>ge | {g}f>ed {G}B>cd | {g}e>fg {g}a>gf | {g}e>dc {G}A3 :|
+|: {g}a2 g {g}f>ed | {g}c>de {g}f2 e | {g}a2 g {g}f>ed | {g}c>BA {G}A3 :|
+
+X:11
+T:Demo Hornpipe - Skerry Light
+C:chanter demo
+R:Hornpipe
+M:2/4
+L:1/16
+Q:1/4=100
+K:HP
+|: {g}e2 | {g}a3f {gef}e3d | {g}B3d {gcd}c3e | {g}d3c {G}B3A | {G}B3c {GdG}d2 e2 | {g}a3f {gef}e3d | {g}B3d {gcd}c3e | {g}d3B {G}c3A | {G}A6 :|
+|: {G}A2 | {g}e3f {g}g3a | {g}f3e {gef}d3e | {g}f3g {g}a3f | {g}e3d {G}c2 {G}B2 | {g}e3f {g}g3a | {g}f3e {gef}d3e | {g}f3d {G}c3B | {G}A6 :|
+
+X:12
+T:Demo Air - The Quiet Glen
+C:chanter demo
+R:Slow Air
+M:3/4
+L:1/8
+Q:1/4=56
+K:HP
+|: A2 | {g}d3 e f2 | {g}e3 d B2 | {g}A3 B c2 | {g}d4 A2 | {g}d3 e f2 | {g}a3 f e2 | {g}d3 B c2 | {G}A4 :|
+|: A2 | {g}e3 f g2 | {g}a3 g f2 | {g}e3 d B2 | {g}c4 A2 | {g}e3 f g2 | {g}a3 f e2 | {g}d3 B c2 | {G}A4 :|

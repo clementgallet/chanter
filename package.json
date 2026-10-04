@@ -1,0 +1,22 @@
+{
+  "name": "chanter",
+  "version": "1.0.0",
+  "description": "Great Highland bagpipe score viewer, player and tune detector (local PWA)",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "FILL=60 node test/bench.js base,noisy-10dB,short-7s && node test/bench-neg.js",
+    "test:full": "node test/bench.js && node test/bench-neg.js && node test/roc.js && node test/matcher-noise.js",
+    "cert:mkcert": "node scripts/mkcert.js",
+    "build": "node scripts/build-static.js",
+    "serve:dist": "node scripts/serve-dist.js",
+    "icons": "node scripts/gen-icons.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "abcjs": "^6.7.1"
+  }
+}
